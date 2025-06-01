@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -152,6 +152,7 @@
   <button id="resetBtn" title="Reset all data">Reset Data</button>
   
   <div class="container">
+    <a href="https://spopifyy.github.io/Focus-Tracker/">Focus-Tracker</a>
     <h1>🧠 Weekly Focus Tracker</h1>
 
     <form id="focus-form">
